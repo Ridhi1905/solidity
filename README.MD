@@ -16,21 +16,13 @@ In this project we have to create a simple contract in which the contract will h
 
 * To run the program on remix- Ethereum IDE follow the steps:
 * Firstly, compile the code.
-* After the compilation is done goto deploy and run transactions and deploy the contract.
-* 
-* Step-by-step bullets
-
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* After the compilation is done goto 'deploy and run transactions' section and deploy the contract.
+* When the contract is deployed, now copy your account and paste it to mint function and enter the amount you want to mint to your account and transact it and you can also check the balance. 
+* now to burn enter the account info and amount which you want to burn and transact 
+* after this you will be able to see how much amount is remaining and how much you have already taken out.
 
 ## Authors
-
-Contributors names and contact info
-Ridhima Chauhan 
-Contact : ridhimac2004@gmail.com 
+* Any help needed contact me at:
+* Ridhima Chauhan 
+* Contact : ridhimac2004@gmail.com 
 
